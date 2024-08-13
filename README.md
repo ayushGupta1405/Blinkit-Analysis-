@@ -71,5 +71,5 @@ To explore the dashboard on your local machine:
    ```bash
    git clone [https://github.com//blinkit-analysis.git](https://github.com/ayushGupta1405/Blinkit-Analysis-/edit/main/README.md)
    ```
-2. **Open the Power BI file**: Open `Blinkit_Sales_Analysis.pbix` using Power BI Desktop.
+2. **Open the Power BI file**: Open `Blinkit_Analysis.pbix` using Power BI Desktop.
 3. **Interact with the Dashboard**: Use the filters and explore the visualizations to gain insights.
